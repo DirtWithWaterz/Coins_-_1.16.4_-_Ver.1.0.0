@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:copper_ingot"
+        },
+        {
+            "item": "create:zinc_ingot"
+        }
+    ],
+    "result": {
+        "item": "create:brass_ingot",
+        "count": 2
+    },
+    "group": "coins"
+}
