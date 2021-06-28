@@ -23,6 +23,10 @@ public class OreGeneration {
 			generateOre(event.getGeneration(), OreGeneration.DIRT, 
 					BlockInit.EXAMPLE_BLOCK.get().getDefaultState(), 5, 10, 200, 300);
 		}
+		if(!(event.getCategory().equals(Biome.Category.NETHER) || event.getCategory().equals(Biome.Category.THEEND))) {
+			generateOre(event.getGeneration(), OreFeatureConfig.FillerBlockType.BASE_STONE_OVERWORLD, 
+					BlockInit.URANIUM_ORE.get().getDefaultState(), 4, 10, 70, 30);
+		}
 	}
 	
 	private static void generateOre(BiomeGenerationSettingsBuilder settings, RuleTest fillerType, BlockState state, int veinSize,

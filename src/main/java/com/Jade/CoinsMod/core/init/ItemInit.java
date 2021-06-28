@@ -102,12 +102,19 @@ public class ItemInit {
     public static final RegistryObject<Item> CHISEL = ITEMS.register("chisel", 
     		() -> new Item(new Item.Properties().group(CoinsMod.JADESCOINS_GROUP)));
     
-    //ingots
+    // ingots
     public static final RegistryObject<Item> DIAMOND_INGOT = ITEMS.register("diamond_ingot", 
+    		() -> new Item(new Item.Properties().group(CoinsMod.JADESCOINS_GROUP)));
+    
+    // dusts
+    public static final RegistryObject<Item> URANIUM_DUST = ITEMS.register("uranium_dust", 
     		() -> new Item(new Item.Properties().group(CoinsMod.JADESCOINS_GROUP)));
     
     
     // block Items
     public static final RegistryObject<BlockItem> EXAMPLE_BLOCK = ITEMS.register("example_block",
     		() -> new BlockItem(BlockInit.EXAMPLE_BLOCK.get(), new Item.Properties().group(CoinsMod.JADESCOINS_GROUP)));
+    
+    public static final RegistryObject<BlockItem> URANIUM_ORE = ITEMS.register("uranium_ore",
+    		() -> new BlockItem(BlockInit.URANIUM_ORE.get(), new Item.Properties().group(CoinsMod.JADESCOINS_GROUP)));
 }

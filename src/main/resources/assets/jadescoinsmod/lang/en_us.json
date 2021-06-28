@@ -28,8 +28,10 @@
     "item.jadescoinsmod.carving_knife": "Carving Knife",
     "item.jadescoinsmod.chisel": "Chisel",
     "item.jadescoinsmod.diamond_ingot": "Diamond Ingot",
+    "item.jadescoinsmod.uranium_dust": "Uranium Dust",
     // Block Names
     "block.jadescoinsmod.example_block": "Suspicious Dirt",
+    "block.jadescoinsmod.uranium_ore": "Uranium Ore",
     // Creative Tabs
     "itemGroup.jadescoinsmodtab": "Jades Coins"
 }

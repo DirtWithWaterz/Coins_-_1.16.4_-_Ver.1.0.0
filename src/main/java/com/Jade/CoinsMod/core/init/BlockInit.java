@@ -23,4 +23,12 @@ public class BlockInit {
 					.harvestTool(ToolType.SHOVEL)
 					.harvestLevel(-1)
 					.sound(SoundType.GROUND)));
+	
+	public static final RegistryObject<Block> URANIUM_ORE = BLOCKS.register("uranium_ore",
+			() -> new Block(AbstractBlock.Properties.create(Material.ROCK, MaterialColor.GRAY)
+					.hardnessAndResistance(15f, 3f)
+					.harvestTool(ToolType.PICKAXE)
+					.harvestLevel(1)
+					.sound(SoundType.STONE)
+					.setRequiresTool()));
 }
