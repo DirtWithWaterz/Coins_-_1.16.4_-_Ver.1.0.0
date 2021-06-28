@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jadescoinsmod:netherite_coin"
+        }
+    ],
+    "result": {
+        "item": "minecraft:netherite_scrap",
+        "count": 1
+    },
+    "group": "coin_to_ore"
+}

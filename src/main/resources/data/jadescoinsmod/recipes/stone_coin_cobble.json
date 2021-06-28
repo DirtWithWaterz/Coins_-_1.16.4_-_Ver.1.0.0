@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cobblestone"
+        },
+        {
+            "item": "jadescoinsmod:chisel"
+        }
+    ],
+    "result": {
+        "item": "jadescoinsmod:stone_coin",
+        "count": 4
+    },
+    "group": "coins"
+}

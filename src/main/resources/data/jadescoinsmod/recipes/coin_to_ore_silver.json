@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jadescoinsmod:silver_coin"
+        }
+    ],
+    "result": {
+        "item": "minecraft:iron_nugget",
+        "count": 1
+    },
+    "group": "coin_to_ore"
+}

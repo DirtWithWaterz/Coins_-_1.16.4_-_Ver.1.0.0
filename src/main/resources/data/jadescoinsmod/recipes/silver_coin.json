@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "J"
+    ],
+    "key": {
+        "#": {
+            "item": "jadescoinsmod:melted_silver_crucible"
+        },
+        "J": {
+            "item": "jadescoinsmod:wax_coin_mold"
+        }
+    },
+    "result": {
+        "item": "jadescoinsmod:dirty_silver_coin",
+        "count": 3
+    },
+    "group": "coins"
+}

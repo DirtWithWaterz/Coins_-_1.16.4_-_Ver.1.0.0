@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jadescoinsmod:gold_coin"
+        },
+        {
+            "item": "jadescoinsmod:gold_coin"
+        },
+        {
+            "item": "jadescoinsmod:gold_coin"
+        }
+    ],
+    "result": {
+        "item": "minecraft:gold_nugget",
+        "count": 4
+    },
+    "group": "coin_to_ore"
+}

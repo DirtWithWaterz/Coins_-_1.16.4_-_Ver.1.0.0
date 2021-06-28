@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:spruce_planks"
+        },
+        {
+            "item": "jadescoinsmod:carving_knife"
+        }
+    ],
+    "result": {
+        "item": "jadescoinsmod:wood_coin",
+        "count": 6
+    },
+    "group": "coins"
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##R",
+        "HTF",
+        "DDR"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_block"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "H": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        "T": {
+            "item": "minecraft:tnt_minecart"
+        },
+        "F": {
+            "item": "minecraft:tnt"
+        },
+        "D": {
+            "item": "druidcraft:moonstone"
+        }
+    },
+    "result": {
+        "item": "nuclear_craft:atomic_bomb_rocket",
+        "count": 1
+    }
+}

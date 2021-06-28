@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "j",
+        "J"
+    ],
+    "key": {
+        "j": {
+            "item": "jadescoinsmod:diamond_ingot"
+        },
+        "J": {
+            "item": "jadescoinsmod:empty_crucible"
+        }
+    },
+    "result": {
+        "item": "jadescoinsmod:raw_diamond_crucible",
+        "count": 1
+    },
+    "group": "raw_ore_crucible"
+}

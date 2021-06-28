@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "jadescoinsmod:block/example_block" }
+	}
+}

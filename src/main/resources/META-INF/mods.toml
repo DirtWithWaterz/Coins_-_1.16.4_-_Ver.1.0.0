@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="jadescoinsmod"
+version="1.0.0"
+displayName="Jades Coins"
+logoFile="JadesCoins.png"
+credits="@Ranbow on www.cleanpng.com for the base of the coins logo! Thanks to TurtyWurty on www.youtube.com for the tutorials on how to make mods, and myself, Jade, for making the mod itself."
+authors="Jade"
+description='''
+This is a mod for coins to coins about coins made of coins and all of the sort.
+(and probably more coming soon)
+'''
+
+[[dependencies.jadescoinsmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.jadescoinsmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

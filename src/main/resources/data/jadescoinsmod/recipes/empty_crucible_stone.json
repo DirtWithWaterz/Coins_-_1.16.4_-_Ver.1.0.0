@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "# #",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "jadescoinsmod:empty_crucible",
+        "count": 1
+    },
+    "group": "empty_crucible_recipes"
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "create:copper_ingot"
+        },
+        {
+            "item": "jadescoinsmod:chisel"
+        }
+    ],
+    "result": {
+        "item": "jadescoinsmod:copper_coin",
+        "count": 3
+    },
+    "group": "coins"
+}

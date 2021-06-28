@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "J"
+    ],
+    "key": {
+        "#": {
+            "item": "jadescoinsmod:melted_netherite_crucible"
+        },
+        "J": {
+            "item": "jadescoinsmod:wax_coin_mold"
+        }
+    },
+    "result": {
+        "item": "jadescoinsmod:dirty_netherite_coin",
+        "count": 1
+    },
+    "group": "coins"
+}

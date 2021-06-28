@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "jadescoinsmod:empty_crucible"
+        }
+    ],
+    "result": {
+        "item": "jadescoinsmod:raw_gold_crucible",
+        "count": 1
+    },
+    "group": "raw_ore_crucible"
+}

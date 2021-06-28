@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jadescoinsmod:stone_coin"
+        },
+        {
+            "item": "jadescoinsmod:wax_chunk"
+        }
+    ],
+    "result": {
+        "item": "jadescoinsmod:wax_coin_mold",
+        "count": 1
+    },
+    "group": "wax_coin_mold"
+}

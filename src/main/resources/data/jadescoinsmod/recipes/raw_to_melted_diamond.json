@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "jadescoinsmod:raw_diamond_crucible"
+    },
+    "result": "jadescoinsmod:melted_diamond_crucible",
+    "experience": 0.6,
+    "cookingtime": 252,
+    "group": "raw_to_melted"
+}

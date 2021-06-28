@@ -1,0 +1,35 @@
+{
+	// Item Names
+	"item.jadescoinsmod.wood_coin": "Wood Coin",
+	"item.jadescoinsmod.stone_coin": "Stone Coin",
+	"item.jadescoinsmod.copper_coin": "Copper Coin",
+    "item.jadescoinsmod.silver_coin": "Silver Coin",
+    "item.jadescoinsmod.gold_coin": "Gold Coin",
+    "item.jadescoinsmod.diamond_coin": "Diamond Coin",
+    "item.jadescoinsmod.netherite_coin": "Netherite Coin",
+    "item.jadescoinsmod.dirty_wood_coin": "Dirty Wood Coin",
+	"item.jadescoinsmod.dirty_stone_coin": "Dirty Stone Coin",
+	"item.jadescoinsmod.dirty_copper_coin": "Dirty Copper Coin",
+    "item.jadescoinsmod.dirty_silver_coin": "Dirty Silver Coin",
+    "item.jadescoinsmod.dirty_gold_coin": "Dirty Gold Coin",
+    "item.jadescoinsmod.dirty_diamond_coin": "Dirty Diamond Coin",
+    "item.jadescoinsmod.dirty_netherite_coin": "Dirty Netherite Coin",
+    "item.jadescoinsmod.empty_crucible": "Empty Crucible",
+    "item.jadescoinsmod.raw_silver_crucible": "Raw Silver Crucible",
+    "item.jadescoinsmod.raw_gold_crucible": "Raw Gold Crucible",
+    "item.jadescoinsmod.raw_diamond_crucible": "Raw Diamond Crucible",
+    "item.jadescoinsmod.raw_netherite_crucible": "Raw Netherite Crucible",
+    "item.jadescoinsmod.melted_silver_crucible": "Melted Silver Crucible",
+    "item.jadescoinsmod.melted_gold_crucible": "Melted Gold Crucible",
+    "item.jadescoinsmod.melted_diamond_crucible": "Melted Diamond Crucible",
+    "item.jadescoinsmod.melted_netherite_crucible": "Melted Netherite Crucible",
+    "item.jadescoinsmod.wax_chunk": "Wax Chunk",
+    "item.jadescoinsmod.wax_coin_mold": "Wax Coin Mold",
+    "item.jadescoinsmod.carving_knife": "Carving Knife",
+    "item.jadescoinsmod.chisel": "Chisel",
+    "item.jadescoinsmod.diamond_ingot": "Diamond Ingot",
+    // Block Names
+    "block.jadescoinsmod.example_block": "Suspicious Dirt",
+    // Creative Tabs
+    "itemGroup.jadescoinsmodtab": "Jades Coins"
+}

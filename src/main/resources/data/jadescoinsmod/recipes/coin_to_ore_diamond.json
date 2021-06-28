@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jadescoinsmod:diamond_coin"
+        },
+        {
+            "item": "jadescoinsmod:diamond_coin"
+        }
+    ],
+    "result": {
+        "item": "minecraft:diamond",
+        "count": 1
+    },
+    "group": "coin_to_ore"
+}
