@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iRI",
+        "I Q"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "Q": {
+            "item": "minecraft:redstone_torch"
+        }
+    },
+    "result": {
+        "item": "nuclear_craft:rocket_launcher",
+        "count": 1
+    }
+}
