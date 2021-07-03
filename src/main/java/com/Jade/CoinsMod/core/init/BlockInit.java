@@ -28,7 +28,7 @@ public class BlockInit {
 			() -> new Block(AbstractBlock.Properties.create(Material.ROCK, MaterialColor.GRAY)
 					.hardnessAndResistance(15f, 3f)
 					.harvestTool(ToolType.PICKAXE)
-					.harvestLevel(1)
+					.harvestLevel(2)
 					.sound(SoundType.STONE)
 					.setRequiresTool()));
 }
